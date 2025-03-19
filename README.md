@@ -7,4 +7,5 @@
 1. **Jenkins Implementation**:
    - Set up and configured the Jenkins server on an AWS EC2 instance using a vendor-provided script. Installed essential DevOps tools, including Terraform, Docker, Kubernetes, and Git, on the same server. Added Maven tools and configure the AWS plugin with secure credential management using access keys.
   
-2. **Terraform Implementation**: - Created a pipeline script using pipeline syntax to deploy three AWS EC2 servers: SonarQube, Nexus, and a testing server.
+2. **Terraform Implementation**:
+   - Created a pipeline script using pipeline syntax to deploy three AWS EC2 servers: SonarQube, Nexus, and a testing server.

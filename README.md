@@ -9,3 +9,4 @@
   
 2. **Terraform Implementation**:
    - Created a pipeline script using pipeline syntax to deploy three AWS EC2 servers: SonarQube, Nexus, and a testing server.
+   - I configured the SonarQube server following the official documentation, integrated the SonarQube plugin with Jenkins, and set up secure authentication by generating a token.

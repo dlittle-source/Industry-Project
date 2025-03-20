@@ -15,4 +15,4 @@
 
  3. **Orchestration Deployment**:
    - Configured an EKS Kubernetes cluster with a single Control Plane and two Worker Nodes. This managed EKS cluster is highly available and scalable, operating across multiple AWS 
- Availability Zones (AZs).
+      Availability Zones (AZs).

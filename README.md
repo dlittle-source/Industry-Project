@@ -12,3 +12,7 @@
    - Set up and configured the SonarQube server to continuously monitor the code quality and security issues, integrated the SonarQube plugin with Jenkins, and set up secure authentication by generating a token.
    - Set up and configured the Nexus Repository server for storing Artifacts, integrated Nexus plugin with Jenkins and added Nexus account to Jenkins server.
    - Developed an Ansible playbook to deploy Docker, Git, and Maven on a test server through a Jenkinsfile.
+
+ 3. **Orchestration Deployment**:
+   - Configured an EKS Kubernetes cluster with a single Control Plane and two Worker Nodes. This managed EKS cluster is highly available and scalable, operating across multiple AWS 
+ Availability Zones (AZs).

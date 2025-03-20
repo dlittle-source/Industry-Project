@@ -14,4 +14,4 @@
    - Developed an Ansible playbook to deploy Docker, Git, and Maven on a test server through a Jenkinsfile.
 
  3. **Orchestration Deployment**:
-   - Configured an EKS Kubernetes cluster with a single Control Plane and two Worker Nodes. This managed EKS cluster is highly available and scalable, operating across multiple AWS Availability Zones (AZs).
+     - Configured an EKS Kubernetes cluster with a single Control Plane and two Worker Nodes. This managed EKS cluster is highly available and scalable, operating across multiple AWS Availability Zones (AZs).
